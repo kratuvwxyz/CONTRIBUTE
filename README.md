@@ -1,5 +1,9 @@
 # Contributor Covenant Code of Conduct
 
+## Found a Bug
+
+Found a bug? Have a problem with loading or running an app? Please check past issues, maybe someone already had that problem. If you don't find similar issue create new, but remember to add accurate informations so that we can look into it straight away. If it's possible add CodePen example that presents called issue.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
