@@ -1,8 +1,8 @@
 # Contributor Covenant Code of Conduct
 
-## Found a Bug
+## Found a Bug?
 
-Found a bug? Have a problem with loading or running an app? Please check past issues, maybe someone already had that problem. If you don't find a similar issue create a new one, but remember to add accurate pieces of information so that we can look into it straight away. If it's possible add a CodePen example that presents called issue.
+Have a problem with loading or running an app? Please check past issues, maybe someone already had that problem. If you don't find a similar issue create a new one, but remember to add accurate pieces of information so that we can look into it straight away. If it's possible add a CodePen example that presents called issue.
 
 ## Our Pledge
 
@@ -63,26 +63,20 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ### 3. Temporary Ban
 
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+**Community Impact**: Severely violating community standards, including sustained inappropriate behavior.
 
-**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+**Consequence**: A temporary ban from any interaction or public communication with the community for a specified period. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparaging classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within the community.
+**Consequence**: A permanent ban from public interaction within the community.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq][FAQ]. Translations are available at [https://www.contributor-covenant.org/translations][translations].
+This Code of Conduct is adapted from the [Contributor Covenant][homepage].
 
 [homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+
+###### UPDATED ON 2023-11-25
